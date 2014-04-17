@@ -33,6 +33,7 @@ def get_proj(path):
 
 
 def get_git_path_info(path):
+    # e.g. path = /lh/test.git/info/refs
     path_split = path.split("/")
     git_name = path_split[1]
     # raw path: project_id.git

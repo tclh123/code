@@ -5,6 +5,7 @@
 /venv
 /permdir
 /tmpdir
+/tmp
 /vilya/permdir
 /vilya/tmpdir
 node_modules
